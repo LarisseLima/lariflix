@@ -2,16 +2,16 @@
   "categorias": [
     {
       "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "link": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+      "cor": "#6A5ACD",
       "link_extra": {
         "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Todos os dias, meninas de todas as partes do mundo lutam pela sua liberdade. Junte-se a elas e faça sua voz ser ouvida.",
+          "url": "https://www.youtube.com/watch?v=3BMgV8jj9IU"
         },
         {
           "titulo": "SEO com React",
@@ -40,12 +40,12 @@
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
     {
       "titulo": "Back End",
-      "cor": "#00C86F",
+      "cor": "#00FA9A",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -66,7 +66,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
@@ -74,58 +74,62 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Música",
+      "cor": "#FF1493",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Músicas na quarentena",
+        "url": "https://www.youtube.com/watch?v=WDZJPJV__bQ"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "text": "Beyoncé - Run the World (Girls)",
+          "url": "https://www.youtube.com/watch?v=VBmMU_iwe6U"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Rihanna - Man Down",
+          "url": "https://www.youtube.com/watch?v=sEhy-RXkNo0"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Maroon 5 - Girls Like You ft. Cardi B",
+          "url": "https://www.youtube.com/watch?v=aJOTlE1K90k"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Beyoncé - Crazy In Love ft. JAY Z",
+          "url": "https://www.youtube.com/watch?v=ViwtNLUqkMY"
+        },
+        {
+          "titulo": "Dua Lipa - Don't Start Now",
+          "url": "https://www.youtube.com/watch?v=oygrmJFKYZY"
         }
       ]
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
+      "cor": "#FF7F50",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "MULHER-MARAVILHA",
+          "url": "https://www.youtube.com/watch?v=kHse4s_RFm0"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "LIGA DA JUSTIÇA",
+          "url": "https://www.youtube.com/watch?v=Jx5ue1yHVx0"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Como Treinar Seu Dragão 2",
+          "url": "https://www.youtube.com/watch?v=bv5TmkOdL78"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Harry Potter e o cálice de fogo",
+          "url": "https://www.youtube.com/watch?v=6umlned5bYM"
         }
       ]
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "#DC143C",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -153,7 +157,7 @@
     },
     {
       "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "cor": "#9ACD32",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
