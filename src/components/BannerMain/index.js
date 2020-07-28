@@ -27,7 +27,8 @@ export default function BannerMain({
           </ContentAreaContainer.Title>
 
           <ContentAreaContainer.Description>
-            {videoDescription}
+            {"Em 2015, quando lideranças mundiais adotaram as Metas de Desenvolvimento Sustentável ​​da Organização das Nações Unidas (as Metas Globais), elas assumiram o compromisso de empoderar todas as meninas."}
+            
           </ContentAreaContainer.Description>
         </ContentAreaContainer.Item>
 
