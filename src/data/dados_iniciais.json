@@ -1,11 +1,11 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Música",
       "link": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
-      "cor": "#6A5ACD",
+      "cor": "#FF1493",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Músicas Woman Power",
         "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
       },
       "videos": [
@@ -14,174 +14,182 @@
           "url": "https://www.youtube.com/watch?v=3BMgV8jj9IU"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
-        },
-        {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
-        },
-        {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00FA9A",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        },
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Música",
-      "cor": "#FF1493",
-      "link_extra": {
-        "text": "Músicas na quarentena",
-        "url": "https://www.youtube.com/watch?v=WDZJPJV__bQ"
-      },
-      "videos": [
-        {
-          "text": "Beyoncé - Run the World (Girls)",
+          "titulo": "Beyoncé - Run the World (Girls)",
           "url": "https://www.youtube.com/watch?v=VBmMU_iwe6U"
+        },
+        {
+          "titulo": "Beyoncé - Formation",
+          "url": "https://www.youtube.com/watch?v=WDZJPJV__bQ"
         },
         {
           "titulo": "Rihanna - Man Down",
           "url": "https://www.youtube.com/watch?v=sEhy-RXkNo0"
         },
         {
-          "titulo": "Maroon 5 - Girls Like You ft. Cardi B",
-          "url": "https://www.youtube.com/watch?v=aJOTlE1K90k"
+          "titulo": "Cyndi Lauper - Girls Just Want To Have Fun",
+          "url": "https://www.youtube.com/watch?v=PIb6AZdTr-A&list=PLz0ChIsXd8273m_FdddpcsoNYvPWv4yr9&index=8"
         },
         {
-          "titulo": "Beyoncé - Crazy In Love ft. JAY Z",
-          "url": "https://www.youtube.com/watch?v=ViwtNLUqkMY"
+          "titulo": "Alicia Keys - Girl on Fire",
+          "url": "https://www.youtube.com/watch?v=J91ti_MpdHA&list=PLz0ChIsXd8273m_FdddpcsoNYvPWv4yr9&index=22"
         },
         {
-          "titulo": "Dua Lipa - Don't Start Now",
-          "url": "https://www.youtube.com/watch?v=oygrmJFKYZY"
+          "titulo": "P!nk - So What ",
+          "url": "https://www.youtube.com/watch?v=FJfFZqTlWrQ&list=PLz0ChIsXd8273m_FdddpcsoNYvPWv4yr9&index=19"
+        },
+        {
+          "titulo": "Katy Perry - Roar",
+          "url": "https://www.youtube.com/watch?v=CevxZvSJLk8&list=PLz0ChIsXd8273m_FdddpcsoNYvPWv4yr9"
+        }
+      ]
+    },
+    {
+      "titulo": "Discursos inspiradores",
+      "cor": "#4B0082",
+      "link_extra": {
+        "text": "Melhores discursos de empoderamento feminino",
+        "url": "https://www.youtube.com/watch?v=4g60xVRCDRE"
+      },
+      "videos": [
+        {
+          "titulo": "Discurso de Beyoncé — Dear of Class 2020",
+          "url": "https://www.youtube.com/watch?v=NiTrmkGjSCA"
+        },
+        {
+          "titulo": "Michelle Obama mulher que inspira o empoderamento feminino",
+          "url": "https://www.youtube.com/watch?v=VaVVSEz7RmM"
+        },
+        {
+          "titulo": "Discurso de Emma Watson pela Organização das Nações Unidas (ONU)",
+          "url": "https://www.youtube.com/watch?v=rq-jogDdKFU"
+        },
+        {
+          "titulo": "Discurso poderoso de Oprah Winfrey",
+          "url": "https://www.youtube.com/watch?v=nlOVquKPUMU"
+        },
+        {
+          "titulo": "Malala e o empoderamento feminino",
+          "url": "https://www.youtube.com/watch?v=BAxRurCKsR8"
+        }
+      ]
+    },
+    {
+      "titulo": "Emponderamento",
+      "cor": "#FFD700",
+      "link_extra": {
+        "text": "O que é?",
+        "url": "https://www.youtube.com/watch?v=WDZJPJV__bQ"
+      },
+      "videos": [
+        {
+          "text": "Empoderamento das Mulheres",
+          "url": "https://www.youtube.com/watch?v=6RSc_XYezig"
+        },
+        {
+          "titulo": "Feminismo e empoderamento: qual a relação entre os dois?",
+          "url": "https://www.youtube.com/watch?v=BJcWvlXjhp0"
+        },
+        {
+          "titulo": "O Que é Empoderamento?",
+          "url": "https://www.youtube.com/watch?v=fIP2Es1JT0g"
+        },
+        {
+          "titulo": "Empoderamento feminino negro com Taís Araújo",
+          "url": "https://www.youtube.com/watch?v=Pl0HYlY5yZ0"
+        },
+        {
+          "titulo": "Feminismo e igualdade de gênero no Brasil ",
+          "url": "https://www.youtube.com/watch?v=otBS-EMOc90"
         }
       ]
     },
     {
       "titulo": "Filmes",
-      "cor": "#FF7F50",
+      "cor": "#DC143C",
+      "link_extra": {
+        "text": "Filmes de mulheres fortes",
+        "url": "https://www.youtube.com/watch?v=IseItjNRIhk"
+      },
       "videos": [
         {
           "titulo": "MULHER-MARAVILHA",
           "url": "https://www.youtube.com/watch?v=kHse4s_RFm0"
         },
         {
-          "titulo": "LIGA DA JUSTIÇA",
-          "url": "https://www.youtube.com/watch?v=Jx5ue1yHVx0"
+          "titulo": "FRIDA",
+          "url": "https://www.youtube.com/watch?v=S7c_JdPpaQE&feature=emb_logo"
         },
         {
-          "titulo": "Como Treinar Seu Dragão 2",
-          "url": "https://www.youtube.com/watch?v=bv5TmkOdL78"
+          "titulo": "Estrelas Além do Tempo",
+          "url": "https://www.youtube.com/watch?v=qc2fbBQ45ZA"
         },
         {
-          "titulo": "Harry Potter e o cálice de fogo",
-          "url": "https://www.youtube.com/watch?v=6umlned5bYM"
+          "titulo": "Valente",
+          "url": "https://www.youtube.com/watch?v=KfFF-qX9YWo"
+        },
+        {
+          "titulo": "A Menina de Ouro",
+          "url": "https://www.youtube.com/watch?v=C0oxG3AXcrg"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "#DC143C",
+      "titulo": "Saúde e autocuidado feminino",
+      "cor": "#7CFC00",
       "link_extra": {
-        "text": "",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Alguns vídeos para a saúde feminina",
+        "url": "https://www.youtube.com/watch?v=SgVtJzJdqpE"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "DEZ erros que as mulheres cometem com a saúde ginecológica",
+          "url": "https://www.youtube.com/watch?v=a88OpgaeN74"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "SAÚDE FEMININA E CUIDADOS COM O CORPO",
+          "url": "https://www.youtube.com/watch?v=-rOw5vTshiw"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "SOBRE AUTOCUIDADO",
+          "url": "https://www.youtube.com/watch?v=h4uv5K0s4rM"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Nossa saúde: Drauzio Varella vamos conversar?!",
+          "url": "https://www.youtube.com/watch?v=uDGh8OUSX8c"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "AUTOCUIDADO NA PRÁTICA: COMO MELHORAR A SAÚDE EMOCIONAL",
+          "url": "https://www.youtube.com/watch?v=mu5HYLzkqqk"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#9ACD32",
+      "titulo": "Cuidar de si",
+      "cor": "#DA70D6",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Alguns vídeos para se inspirar e realçar sua beleza",
+        "url": "https://www.youtube.com/watch?v=t-my3QcJ9lk&t=10s"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "NÃO É UM TUTORIAL DE MAQUIAGEM | é um lembrete",
+          "url": "https://www.youtube.com/watch?v=wPUgcWX1Qwc"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Taís Araújo fala sobre aceitação do cabelo crespo",
+          "url": "https://www.youtube.com/watch?v=UF6_SM4K67U"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "MINHA NOVA ROTINA DE CUIDADOS DIÁRIOS COM A PELE ",
+          "url": "https://www.youtube.com/watch?v=z7v_Bpzc2f4"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "MAQUIAGEM PRA QUEM NÃO SABE MAQUIAR! MAKE FÁCIL E SEM FRESCURA!",
+          "url": "https://www.youtube.com/watch?v=P26ORSRqJEg&t=168se"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "TIRANDO TODO O RESSECAMENTO DO CABELO com uma SUUUPER HIDRATAÇÃO",
+          "url": "https://www.youtube.com/watch?v=gYvTLiA29OU"
         }
       ]
     }
