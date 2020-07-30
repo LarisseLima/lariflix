@@ -1,7 +1,8 @@
 import React from 'react';
-import PageDefault from '../../../components/PageDefault';
 import { Link } from 'react-router-dom';
+import PageDefault from '../../../components/PageDefault';
 
+// eslint-disable-next-line linebreak-style
 function CadastroVideo() {
   return (
     <PageDefault>
@@ -11,7 +12,7 @@ function CadastroVideo() {
         Cadastrar Categoria
       </Link>
     </PageDefault>
-  )
+  );
 }
 
 export default CadastroVideo;
