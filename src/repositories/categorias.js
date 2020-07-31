@@ -30,7 +30,7 @@ function getAllWithVideos() {
             
         });
 }
-//http://localhost:8080/categorias?_embed=videos
+
 
 
 export default {

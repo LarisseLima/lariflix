@@ -1,258 +1,258 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "titulo": "Música",
-            "cor": "#FF1493",
-            "link_extra": {
-                "text": "Músicas Woman Power",
-                "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-            }
-        },
-        {
-            "id": 2,
-            "titulo": "Discursos inspiradores",
-            "cor": "#4B0082",
-            "link_extra": {
-                "text": "Melhores discursos de empoderamento feminino",
-                "url": "https://www.youtube.com/watch?v=4g60xVRCDRE"
-            }
-        },
-        {
-            "id": 3,
-            "titulo": "Emponderamento",
-            "cor": "#FFD700",
-            "link_extra": {
-                "text": "O que é?",
-                "url": "https://www.youtube.com/watch?v=WDZJPJV__bQ"
-            }
-        },
-        {
-            "id": 4,
-            "titulo": "Filmes",
-            "cor": "#DC143C",
-            "link_extra": {
-                "text": "Filmes de mulheres fortes",
-                "url": "https://www.youtube.com/watch?v=IseItjNRIhk"
-            }
-        },
-        {
-            "id": 5,
-            "titulo": "Saúde e autocuidado feminino",
-            "cor": "#7CFC00",
-            "link_extra": {
-                "text": "Alguns vídeos para a saúde feminina",
-                "url": "https://www.youtube.com/watch?v=SgVtJzJdqpE"
-            }
-        },
-        {
-            "id": 6,
-            "titulo": "Cuidar de si",
-            "cor": "#DA70D6",
-            "link_extra": {
-                "text": "Alguns vídeos para se inspirar e realçar a sua beleza",
-                "url": "https://www.youtube.com/watch?v=t-my3QcJ9lk&t=10s"
-            }
-        }
-    ],
-    "videos": [
-        {
-            "id": 1,
-            "categoriaId": 1,
-            "titulo": "Todos os dias, meninas de todas as partes do mundo lutam pela sua liberdade. Junte-se a elas e faça sua voz ser ouvida.",
-            "url": "https://www.youtube.com/watch?v=3BMgV8jj9IU"
-        },
-        {
-            "id": 2,
-            "categoriaId": 1,
-            "titulo": "Beyoncé - Run the World (Girls)",
-            "url": "https://www.youtube.com/watch?v=VBmMU_iwe6U"
-        },
-        {
-            "id": 3,
-            "categoriaId": 1,
-            "titulo": "Beyoncé - Formation",
-            "url": "https://www.youtube.com/watch?v=WDZJPJV__bQ"
-        },
-        {
-            "id": 4,
-            "categoriaId": 1,
-            "titulo": "Rihanna - Man Down",
-            "url": "https://www.youtube.com/watch?v=sEhy-RXkNo0"
-        },
-        {
-            "id": 5,
-            "categoriaId": 1,
-            "titulo": "Cyndi Lauper - Girls Just Want To Have Fun",
-            "url": "https://www.youtube.com/watch?v=PIb6AZdTr-A&list=PLz0ChIsXd8273m_FdddpcsoNYvPWv4yr9&index=8"
-        },
-        {
-            "id": 6,
-            "categoriaId": 1,
-            "titulo": "Alicia Keys - Girl on Fire",
-            "url": "https://www.youtube.com/watch?v=J91ti_MpdHA&list=PLz0ChIsXd8273m_FdddpcsoNYvPWv4yr9&index=22"
-        },
-        {
-            "id": 7,
-            "categoriaId": 1,
-            "titulo": "P!nk - So What ",
-            "url": "https://www.youtube.com/watch?v=FJfFZqTlWrQ&list=PLz0ChIsXd8273m_FdddpcsoNYvPWv4yr9&index=19"
-        },
-        {
-            "id": 8,
-            "categoriaId": 1,
-            "titulo": "Katy Perry - Roar",
-            "url": "https://www.youtube.com/watch?v=CevxZvSJLk8&list=PLz0ChIsXd8273m_FdddpcsoNYvPWv4yr9"
-        },
-        {
-            "id": 9,
-            "categoriaId": 2,
-            "titulo": "Discurso de Beyoncé — Dear of Class 2020",
-            "url": "https://www.youtube.com/watch?v=NiTrmkGjSCA"
-        },
-        {
-            "id": 10,
-            "categoriaId": 2,
-            "titulo": "Michelle Obama mulher que inspira o empoderamento feminino",
-            "url": "https://www.youtube.com/watch?v=VaVVSEz7RmM"
-        },
-        {
-            "id": 11,
-            "categoriaId": 2,
-            "titulo": "Discurso de Emma Watson pela Organização das Nações Unidas (ONU)",
-            "url": "https://www.youtube.com/watch?v=rq-jogDdKFU"
-        },
-        {
-            "id": 12,
-            "categoriaId": 2,
-            "titulo": "Discurso poderoso de Oprah Winfrey",
-            "url": "https://www.youtube.com/watch?v=nlOVquKPUMU"
-        },
-        {
-            "id": 13,
-            "categoriaId": 2,
-            "titulo": "Malala e o empoderamento feminino",
-            "url": "https://www.youtube.com/watch?v=BAxRurCKsR8"
-        },
-        {
-            "id": 14,
-            "categoriaId": 3,
-            "text": "Empoderamento das Mulheres",
-            "url": "https://www.youtube.com/watch?v=6RSc_XYezig"
-        },
-        {
-            "id": 15,
-            "categoriaId": 3,
-            "titulo": "Feminismo e empoderamento: qual a relação entre os dois?",
-            "url": "https://www.youtube.com/watch?v=BJcWvlXjhp0"
-        },
-        {
-            "id": 16,
-            "categoriaId": 3,
-            "titulo": "O Que é Empoderamento?",
-            "url": "https://www.youtube.com/watch?v=fIP2Es1JT0g"
-        },
-        {
-            "id": 17,
-            "categoriaId": 3,
-            "titulo": "Empoderamento feminino negro com Taís Araújo",
-            "url": "https://www.youtube.com/watch?v=Pl0HYlY5yZ0"
-        },
-        {
-            "id": 18,
-            "categoriaId": 3,
-            "titulo": "Feminismo e igualdade de gênero no Brasil ",
-            "url": "https://www.youtube.com/watch?v=otBS-EMOc90"
-        },
-        {
-            "id": 19,
-            "categoriaId": 4,
-            "titulo": "MULHER-MARAVILHA",
-            "url": "https://www.youtube.com/watch?v=kHse4s_RFm0"
-        },
-        {
-            "id": 20,
-            "categoriaId": 4,
-            "titulo": "FRIDA",
-            "url": "https://www.youtube.com/watch?v=S7c_JdPpaQE&feature=emb_logo"
-        },
-        {
-            "id": 21,
-            "categoriaId": 4,
-            "titulo": "Estrelas Além do Tempo",
-            "url": "https://www.youtube.com/watch?v=qc2fbBQ45ZA"
-        },
-        {
-            "id": 22,
-            "categoriaId": 4,
-            "titulo": "Valente",
-            "url": "https://www.youtube.com/watch?v=KfFF-qX9YWo"
-        },
-        {
-            "id": 23,
-            "categoriaId": 4,
-            "titulo": "A Menina de Ouro",
-            "url": "https://www.youtube.com/watch?v=C0oxG3AXcrg"
-        },
-        {
-            "id": 24,
-            "categoriaId": 5,
-            "titulo": "DEZ erros que as mulheres cometem com a saúde ginecológica",
-            "url": "https://www.youtube.com/watch?v=a88OpgaeN74"
-        },
-        {
-            "id": 25,
-            "categoriaId": 5,
-            "titulo": "SAÚDE FEMININA E CUIDADOS COM O CORPO",
-            "url": "https://www.youtube.com/watch?v=-rOw5vTshiw"
-        },
-        {
-            "id": 26,
-            "categoriaId": 5,
-            "titulo": "SOBRE AUTOCUIDADO",
-            "url": "https://www.youtube.com/watch?v=h4uv5K0s4rM"
-        },
-        {
-            "id": 27,
-            "categoriaId": 5,
-            "titulo": "Nossa saúde: Drauzio Varella vamos conversar?!",
-            "url": "https://www.youtube.com/watch?v=uDGh8OUSX8c"
-        },
-        {
-            "id": 28,
-            "categoriaId": 5,
-            "titulo": "AUTOCUIDADO NA PRÁTICA: COMO MELHORAR A SAÚDE EMOCIONAL",
-            "url": "https://www.youtube.com/watch?v=mu5HYLzkqqk"
-        },
-        {
-            "id": 29,
-            "categoriaId": 6,
-            "titulo": "NÃO É UM TUTORIAL DE MAQUIAGEM | é um lembrete",
-            "url": "https://www.youtube.com/watch?v=wPUgcWX1Qwc"
-        },
-        {
-            "id": 30,
-            "categoriaId": 6,
-            "titulo": "Taís Araújo fala sobre aceitação do cabelo crespo",
-            "url": "https://www.youtube.com/watch?v=UF6_SM4K67U"
-        },
-        {
-            "id": 31,
-            "categoriaId": 6,
-            "titulo": "MINHA NOVA ROTINA DE CUIDADOS DIÁRIOS COM A PELE ",
-            "url": "https://www.youtube.com/watch?v=z7v_Bpzc2f4"
-        },
-        {
-            "id": 32,
-            "categoriaId": 6,
-            "titulo": "MAQUIAGEM PRA QUEM NÃO SABE MAQUIAR! MAKE FÁCIL E SEM FRESCURA!",
-            "url": "https://www.youtube.com/watch?v=P26ORSRqJEg&t=168se"
-        },
-        {
-            "id": 33,
-            "categoriaId": 6,
-            "titulo": "TIRANDO TODO O RESSECAMENTO DO CABELO com uma SUUUPER HIDRATAÇÃO",
-            "url": "https://www.youtube.com/watch?v=gYvTLiA29OU"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Música",
+      "cor": "#FF1493",
+      "link_extra": {
+        "text": "Músicas Woman Power",
+        "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Discursos inspiradores",
+      "cor": "#4B0082",
+      "link_extra": {
+        "text": "Melhores discursos de empoderamento feminino",
+        "url": "https://www.youtube.com/watch?v=4g60xVRCDRE"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Emponderamento",
+      "cor": "#FFD700",
+      "link_extra": {
+        "text": "O que é?",
+        "url": "https://www.youtube.com/watch?v=WDZJPJV__bQ"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Filmes",
+      "cor": "#DC143C",
+      "link_extra": {
+        "text": "Filmes de mulheres fortes",
+        "url": "https://www.youtube.com/watch?v=IseItjNRIhk"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Saúde e autocuidado feminino",
+      "cor": "#7CFC00",
+      "link_extra": {
+        "text": "Alguns vídeos para a saúde feminina",
+        "url": "https://www.youtube.com/watch?v=SgVtJzJdqpE"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Cuidar de si",
+      "cor": "#DA70D6",
+      "link_extra": {
+        "text": "Alguns vídeos para se inspirar e realçar a sua beleza",
+        "url": "https://www.youtube.com/watch?v=t-my3QcJ9lk&t=10s"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Todos os dias, meninas de todas as partes do mundo lutam pela sua liberdade. Junte-se a elas e faça sua voz ser ouvida.",
+      "url": "https://www.youtube.com/watch?v=3BMgV8jj9IU"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Beyoncé - Run the World (Girls)",
+      "url": "https://www.youtube.com/watch?v=VBmMU_iwe6U"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Beyoncé - Formation",
+      "url": "https://www.youtube.com/watch?v=WDZJPJV__bQ"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Rihanna - Man Down",
+      "url": "https://www.youtube.com/watch?v=sEhy-RXkNo0"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Cyndi Lauper - Girls Just Want To Have Fun",
+      "url": "https://www.youtube.com/watch?v=PIb6AZdTr-A&list=PLz0ChIsXd8273m_FdddpcsoNYvPWv4yr9&index=8"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Alicia Keys - Girl on Fire",
+      "url": "https://www.youtube.com/watch?v=J91ti_MpdHA&list=PLz0ChIsXd8273m_FdddpcsoNYvPWv4yr9&index=22"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "P!nk - So What ",
+      "url": "https://www.youtube.com/watch?v=FJfFZqTlWrQ&list=PLz0ChIsXd8273m_FdddpcsoNYvPWv4yr9&index=19"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Katy Perry - Roar",
+      "url": "https://www.youtube.com/watch?v=CevxZvSJLk8&list=PLz0ChIsXd8273m_FdddpcsoNYvPWv4yr9"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Discurso de Beyoncé — Dear of Class 2020",
+      "url": "https://www.youtube.com/watch?v=NiTrmkGjSCA"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Michelle Obama mulher que inspira o empoderamento feminino",
+      "url": "https://www.youtube.com/watch?v=VaVVSEz7RmM"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Discurso de Emma Watson pela Organização das Nações Unidas (ONU)",
+      "url": "https://www.youtube.com/watch?v=rq-jogDdKFU"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Discurso poderoso de Oprah Winfrey",
+      "url": "https://www.youtube.com/watch?v=nlOVquKPUMU"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Malala e o empoderamento feminino",
+      "url": "https://www.youtube.com/watch?v=BAxRurCKsR8"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "text": "Empoderamento das Mulheres",
+      "url": "https://www.youtube.com/watch?v=6RSc_XYezig"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Feminismo e empoderamento: qual a relação entre os dois?",
+      "url": "https://www.youtube.com/watch?v=BJcWvlXjhp0"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "O Que é Empoderamento?",
+      "url": "https://www.youtube.com/watch?v=fIP2Es1JT0g"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Empoderamento feminino negro com Taís Araújo",
+      "url": "https://www.youtube.com/watch?v=Pl0HYlY5yZ0"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "Feminismo e igualdade de gênero no Brasil ",
+      "url": "https://www.youtube.com/watch?v=otBS-EMOc90"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "MULHER-MARAVILHA",
+      "url": "https://www.youtube.com/watch?v=kHse4s_RFm0"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "FRIDA",
+      "url": "https://www.youtube.com/watch?v=S7c_JdPpaQE&feature=emb_logo"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Estrelas Além do Tempo",
+      "url": "https://www.youtube.com/watch?v=qc2fbBQ45ZA"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "Valente",
+      "url": "https://www.youtube.com/watch?v=KfFF-qX9YWo"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "A Menina de Ouro",
+      "url": "https://www.youtube.com/watch?v=C0oxG3AXcrg"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "DEZ erros que as mulheres cometem com a saúde ginecológica",
+      "url": "https://www.youtube.com/watch?v=a88OpgaeN74"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "SAÚDE FEMININA E CUIDADOS COM O CORPO",
+      "url": "https://www.youtube.com/watch?v=-rOw5vTshiw"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "SOBRE AUTOCUIDADO",
+      "url": "https://www.youtube.com/watch?v=h4uv5K0s4rM"
+    },
+    {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "Nossa saúde: Drauzio Varella vamos conversar?!",
+      "url": "https://www.youtube.com/watch?v=uDGh8OUSX8c"
+    },
+    {
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "AUTOCUIDADO NA PRÁTICA: COMO MELHORAR A SAÚDE EMOCIONAL",
+      "url": "https://www.youtube.com/watch?v=mu5HYLzkqqk"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "titulo": "NÃO É UM TUTORIAL DE MAQUIAGEM | é um lembrete",
+      "url": "https://www.youtube.com/watch?v=wPUgcWX1Qwc"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "titulo": "Taís Araújo fala sobre aceitação do cabelo crespo",
+      "url": "https://www.youtube.com/watch?v=UF6_SM4K67U"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "titulo": "MINHA NOVA ROTINA DE CUIDADOS DIÁRIOS COM A PELE ",
+      "url": "https://www.youtube.com/watch?v=z7v_Bpzc2f4"
+    },
+    {
+      "id": 32,
+      "categoriaId": 6,
+      "titulo": "MAQUIAGEM PRA QUEM NÃO SABE MAQUIAR! MAKE FÁCIL E SEM FRESCURA!",
+      "url": "https://www.youtube.com/watch?v=P26ORSRqJEg&t=168se"
+    },
+    {
+      "id": 33,
+      "categoriaId": 6,
+      "titulo": "TIRANDO TODO O RESSECAMENTO DO CABELO com uma SUUUPER HIDRATAÇÃO",
+      "url": "https://www.youtube.com/watch?v=gYvTLiA29OU"
+    }
+  ]
 }
