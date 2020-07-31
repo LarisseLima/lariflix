@@ -1,36 +1,31 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
+function useForm(initialValues) {
+  const [values, setValues] = useState(initialValues);
 
-function useForm(valoresIniciais) {
-    const [valores, setValores] = useState(valoresIniciais);
-  
-    function setValor(chave, valor) {
-      setValores({
-        ...valores,
-        [chave]: valor,
-      })
-    }
-  
-    function handleChange(e) {
-      //const { getAttribute,value } = e.target;
-  
-      //console.log('nome categoria-----'+nomeDaCategoria);
-      //console.log('nome evento-----'+e.target.value);
-      setValor(
-        e.target.getAttribute('name'),
-        e.target.value);
-  
-    }
-  
-    function clearForm(){
-      setValores(valoresIniciais);
-    }
-  
-    return {
-      valores,
-      handleChange,
-      clearForm
-    };
+  function setValue(idx, value) {
+    setValues({
+      ...values,
+      [idx]: value,
+    });
   }
 
-  export default useForm;
+  function handleChange(parms) {
+    setValue(
+      parms.target.getAttribute('name'),
+      parms.target.value,
+    );
+  }
+
+  function clearForm() {
+    setValues(initialValues);
+  }
+
+  return {
+    values,
+    handleChange,
+    clearForm,
+  };
+}
+
+export default useForm;

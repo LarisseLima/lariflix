@@ -45,7 +45,7 @@ const Input = styled.input`
   outline: 0;
   border: 0;
   border-top: 4px solid transparent;
-  border-bottom: 4px solid #53585D;
+  border-bottom: 4px solid #EB2D92;
   
   padding: 16px 16px;
   margin-bottom: 45px;
