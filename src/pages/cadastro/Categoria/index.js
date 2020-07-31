@@ -13,7 +13,7 @@ function CadastroCategoria() {
 
   const URL = window.location.hostname.includes('localhost')
     ? 'http://localhost:8080/categorias'
-    : 'https://lucasflix-api.herokuapp.com/categorias';
+    : 'https://lariflix-api.herokuapp.com/categorias';
 
   const valoresIniciais = {
     titulo: '',
