@@ -5,12 +5,13 @@ import Logo from '../../assets/img/loguinho.png'
 function Footer() {
   return (
     <FooterBase>
-      <img src={Logo} alt="Logo LariFlix"/>
+      <img src={Logo} alt="Logo LariFlix" />
       <p>
-        Criado durante a
+        Criado por <a href="https://www.linkedin.com/in/larisselima/">Larisse Lima
+          </a>
         {' '}
-        <a href="https://www.alura.com.br/">
-          Imersão React da Alura
+
+         (Na Imersão React da  <a href="https://www.alura.com.br/"> Alura)
         </a>
       </p>
     </FooterBase>
