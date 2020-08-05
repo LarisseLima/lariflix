@@ -1,7 +1,7 @@
 # Imersão React
 
 ## 💻 WomanFlix
-Projeto criado durante a Imersão React da [Alura](https://www.alura.com.br/).
+Projeto criado em REACT durante a Imersão React da [Alura](https://www.alura.com.br/).
 
 
 
