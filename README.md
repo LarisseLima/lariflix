@@ -13,29 +13,30 @@ Projeto criado em REACT durante a Imersão React da [Alura](https://www.alura.co
 
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>
+  <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">Como baixar</a>
 </p>
 
 
-## :rocket: Technologies
+## :rocket: Tecnologias
 
-This project was developed at the **Imersão React** by [Alura](https://www.alura.com.br/) using the following technologies:
+projeto desenvolvido na  **Imersão React** by [Alura](https://www.alura.com.br/) usando as tecnologias:
 
 -  [ReactJS](https://reactjs.org/)
 -  [Node.js](nodejs)
 
 
-## :information_source: How To Use
+## :information_source: Como baixar
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v12.14.1][nodejs] or higher and [npm v6.13.4] or higher installed on your computer. From your command line:
 
+
+Para clonar e executar este aplicativo, você precisará [Git] (https://git-scm.com), [Node.js v12.14.1] [nodejs] ou superior e [npm v6.13.4] ou superior instalado em seu computador. Na linha de comando:
 ```bash
-# Clone this repository
+# Clone esse repositório
 $ git clone https://github.com/LarisseLima/lariflix
 
 
-# For web project (ReactJS)
+# Projeto web (ReactJS)
 $ cd lariflix
 $ npm install
 $ npm start
