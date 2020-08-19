@@ -41,4 +41,4 @@ $ cd lariflix
 $ npm install
 $ npm start
 
-Desenvolvido com 💜 por Larisse Lima >>>>> [Linkedin](https://www.linkedin.com/in/larisselima/)
+Desenvolvido com 💜 por Larisse Lima 
