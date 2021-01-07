@@ -30,7 +30,7 @@ Projeto desenvolvido na  **Imersão React** by [Alura](https://www.alura.com.br/
 
 
 
-Para clonar e executar este aplicativo, você precisará Node.js (v12.14.1) ou superior e (npm v6.13.4) ou superior instalado em seu computador. Na linha de comando:
+Para clonar e executar este aplicativo, você precisará Node.js instalado em seu computador. Na linha de comando:
 ```bash
 # Clone esse repositório
 $ git clone https://github.com/LarisseLima/womanflix
@@ -41,6 +41,6 @@ $ cd lariflix
 $ npm install
 $ npm start
 
-
+```
 
 <p align="center"><b>Feito com 	:coffee: <br> por Larisse Lima</b></p>
